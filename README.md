@@ -89,35 +89,35 @@ Version control using Git & GitHub
 
 ### 🧱 Project Structure
 
-![Project Structure](Project-screenshots/Project-Structure.png)
+![project structure](project-screenshots/project-Structure.png)
 
 ### 🧱 Package Structure
 
-![Project Structure with classes](Project-screenshots/Package-Structure.png)
+![Package Structure](project-screenshots/package-structure.png)
 
 ### 📄 Get All Students
 
-![Get All Students](Project-screenshots/Get-all-students.png)
+![Get All Students](project-screenshots/get-all-students.png)
 
 ### 🔎 Get Student by ID
 
-![Get Students Id](Project-screenshots/Get-student-by-Id.png)
+![Get Students Id](project-screenshots/get-student-by-id.png)
 
 ### ➕ Create Student
 
-![Create Student](Project-screenshots/Create-student.png)
+![Create Student](project-screenshots/create-student.png)
 
 ### ✏️ Update Student
 
-![Update Student](Project-screenshots/Update-student-information.png)
+![Update Student](project-screenshots/update-student-information.png)
 
 ### 🗑️ Delete Student
 
-![Delete Student](Project-screenshots/Delete-student.png)
+![Delete Student](project-screenshots/delete-student.png)
 
 ### 🗄️ Database Table
 
-![Database Table](Project-screenshots/MySQL-Database.png)
+![Database Table](project-screenshots/mysql-database.png)
 
 Author
 
