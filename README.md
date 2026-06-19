@@ -52,7 +52,7 @@ student-management-system
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Bubele-Ernest-Mtsora/student-management-system.git
+git clone https:https://github.com/Bubele-Ernest-Mtsora/student-management-system-crud-Api.git
 
 Configure MySQL
 
